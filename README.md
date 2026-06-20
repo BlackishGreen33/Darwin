@@ -35,9 +35,7 @@
 
 - HTML5
 - CSS3 / Bootstrap
-- JavaScript / jQuery
-- Owl Carousel
-- Font Awesome
+- JavaScript / jQuery / Bootstrap
 
 ## 🚀 本地运行
 
@@ -58,7 +56,6 @@ index.html
 ├── js/
 ├── images/
 ├── localfonts/
-├── webfonts/
 ├── docs/
 │   └── screenshots/
 └── LICENSE
